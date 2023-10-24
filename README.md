@@ -6,7 +6,7 @@ Install server
 ```
 sudo su -c "bash <( wget -qO- https://github.com/Onair-santa/VpnHood/releases/download/v3.0/VpnHoodServer-linux.sh)"
 ```
-## Client Download
+### Client Download
 It is available for Windows and Android.
 
 <a href="https://play.google.com/store/apps/details?id=com.vpnhood.client.android"><img src="https://github.com/vpnhood/VpnHood/wiki/images/download-google-play.png" width="200"></a>
