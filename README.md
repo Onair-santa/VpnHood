@@ -2,6 +2,7 @@
 # 📥 VpnHood 
 Undetectable VPN for ordinary users and experts. VpnHood is a solution to bypass Advanced Firewalls and circumvent deep packet inspection. VpnHood has been created entirely from scratch in C#.
 ### 💠 RUN
+Install server
 ```
 sudo su -c "bash <( wget -qO- https://github.com/Onair-santa/VpnHood/releases/download/v3.0/VpnHoodServer-linux.sh)"
 ```
