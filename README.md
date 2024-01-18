@@ -4,7 +4,7 @@ Undetectable VPN for ordinary users and experts. VpnHood is a solution to bypass
 ### 💠 RUN
 Install server
 ```
-sudo su -c "bash <( wget -qO- https://github.com/Onair-santa/VpnHood/releases/download/v3.0/VpnHoodServer-linux.sh)"
+sudo su -c "bash <( wget -qO- https://github.com/Onair-santa/VpnHood/releases/download/v3.1/VpnHoodServer-linux.sh)"
 ```
 ### Client Download
 It is available for Windows and Android.
